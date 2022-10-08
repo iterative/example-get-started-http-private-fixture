@@ -1,0 +1,4 @@
+[core]
+    remote = private-http
+['remote "private-http"']
+    url = http://35.194.53.251
